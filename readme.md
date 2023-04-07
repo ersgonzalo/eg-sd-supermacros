@@ -2,6 +2,11 @@
 ---
 A series of personal macros that I use on my own Elgato Streamdeck. Regularly contribute and manage them as I want to automate more things that I do on the regular.
 
+| Association | File | Description |
+| ----------- | ----------- | ----------- |
+| General | [general.md](general.md) | A series of helpful macros that I use often across different tools and for easier record-keeping. |
+| Jira | [jira.md](jira.md) | A series of helpful macros that use the hotkeys and formatting that Jira supports. |
+
 If you'd like to create your own, you reference the documentation here: https://github.com/BarRaider/streamdeck-supermacro/wiki
 
 Huge credits to:

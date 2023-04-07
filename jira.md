@@ -4,7 +4,7 @@ A series of helpful macros that use the hotkeys and formatting that Jira support
 
 ### Ticket Template
 #### Macro
-https://github.com/ersgonzalo/eg-sd-supermacros/blob/main/jira/ticket-template.sm#L1-L9
+https://github.com/ersgonzalo/eg-sd-supermacros/blob/ac7d7919abf3e125afb0cc5e4fee3f1848370722/jira/ticket-template.sm#L1-L9
 #### Expected Output
 > **Outcome**: placeholder
 > **Acceptance Criteria:**
@@ -22,7 +22,7 @@ https://github.com/ersgonzalo/eg-sd-supermacros/blob/c903521c92b4304aa79ddc48c99
 
 ### Acceptance Criteria
 #### Macro
-https://github.com/ersgonzalo/eg-sd-supermacros/blob/main/jira/acceptance-criteria.sm#L1-L3
+https://github.com/ersgonzalo/eg-sd-supermacros/blob/ac7d7919abf3e125afb0cc5e4fee3f1848370722/jira/acceptance-criteria.sm#L1-L3
 #### Expected Output
 > **Acceptance Criteria:**
 > - placeholder
