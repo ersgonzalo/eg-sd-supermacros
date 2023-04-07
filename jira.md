@@ -28,7 +28,7 @@ A series of helpful macros that use the hotkeys and formatting that Jira support
 
 ### Acceptance Criteria
 #### Macro
-https://github.com/ersgonzalo/eg-sd-supermacros/blob/a498ddf9eb294bfab85a7264da352c75720cf4d3/jira/acceptance-criteria.sm
+https://github.com/ersgonzalo/eg-sd-supermacros/blob/a498ddf9eb294bfab85a7264da352c75720cf4d3/jira/acceptance-criteria.sm#L1-L3
 #### Expected Output
 > **Acceptance Criteria:**
 > - placeholder
