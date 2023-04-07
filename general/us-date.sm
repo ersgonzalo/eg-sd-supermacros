@@ -1,0 +1,1 @@
+{{FUNC:NOW:isoDate:MM/dd/yyyy}}{{OUTPUT:isoDate}}
