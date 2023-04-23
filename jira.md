@@ -36,6 +36,6 @@ https://github.com/ersgonzalo/eg-sd-supermacros/blob/c903521c92b4304aa79ddc48c99
 
 ### Strikethrough
 #### Macro
-<placeholder URL>
+https://github.com/ersgonzalo/eg-sd-supermacros/blob/295b2f0572106e737e98d2b1b01a3bb6abf086e7/jira/strikethrough.sm#L1
 #### Expected Output
 > ~~text to be struckthrough~~
