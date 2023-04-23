@@ -6,7 +6,7 @@ A series of helpful macros that use the hotkeys and formatting that Jira support
 #### Macro
 https://github.com/ersgonzalo/eg-sd-supermacros/blob/ac7d7919abf3e125afb0cc5e4fee3f1848370722/jira/ticket-template.sm#L1-L9
 #### Expected Output
-> **Outcome**: placeholder
+> **Outcome**: placeholder  
 > **Acceptance Criteria:**
 > - placeholder
 > 
@@ -33,3 +33,9 @@ https://github.com/ersgonzalo/eg-sd-supermacros/blob/c903521c92b4304aa79ddc48c99
 #### Expected Output
 > **Definition of Done:**
 > - placeholder
+
+### Strikethrough
+#### Macro
+<placeholder URL>
+#### Expected Output
+> ~~text to be struckthrough~~
