@@ -11,7 +11,7 @@ A series of personal macros that I use on my own Elgato Streamdeck. Regularly co
 Other Notes:
 - SuperMacro doesn't discriminate in the file extension. I used `.sm` as the placeholder to differentate and reduce the risk of the system getting confused on possible compatibilities/safety.
 
-If you'd like to create your own, you reference the documentation here: https://github.com/BarRaider/streamdeck-supermacro/wiki
+If you'd like to create your own, you reference the documentation here: https://docs.barraider.com/faqs/supermacro/commands/
 
 Huge credits to:
 - [BarRaider](https://github.com/BarRaider) for creating this plugin to make my life easier

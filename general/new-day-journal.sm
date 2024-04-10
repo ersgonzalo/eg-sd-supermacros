@@ -1,0 +1,1 @@
+{{ENTER}}{{UP}}{{PAUSE:50}}{{FUNC:NOW:isoDate:yyyy.MM.dd}}{{OUTPUT:isoDate}}{{ENTER}}{{PAUSE:50}}{{TAB}}{{FUNC:NOW:24Time:HH:mm - }}{{OUTPUT:24Time}}
